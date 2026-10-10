@@ -1,0 +1,18 @@
+
+# Compiled Java files
+*.class
+bin/
+
+# Eclipse workspace files
+.metadata/
+.settings/
+
+# Private configuration
+.env
+.env.*
+!.env.example
+
+# Logs and database backups
+*.log
+*.sql.gz
+*.dump
